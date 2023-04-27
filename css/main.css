@@ -135,7 +135,6 @@ label {
 }
 
 .banner-header {
-  object-fit: cover;
   width: 100%;
   height: 500px;
 }
@@ -558,7 +557,7 @@ footer svg:hover {
   /* pages */
   .banner-header {
     width: 100%;
-    height: 30vh;
+    height: 20vh;
   }
   .nav {
     padding: 0;
@@ -610,7 +609,7 @@ footer svg:hover {
     font-size: 1.3em;
   }
   .carousel-item .img-carousel {
-    width: 1920px;
+    width: 100px;
     height: 300px;
   }
   .carousel-item .ctn, .carousel-item .ctn-qh {
