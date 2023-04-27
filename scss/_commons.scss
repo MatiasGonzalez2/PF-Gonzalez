@@ -19,10 +19,12 @@ label{
     color: $pColor;
 }
 
+//backround
 .bg-green {
     background-color: map-get($map: $paleta, $key: uno);
 }
 
+//lineas de texto en la card
 .card p{
     display: -webkit-box;
     -webkit-line-clamp: 4;

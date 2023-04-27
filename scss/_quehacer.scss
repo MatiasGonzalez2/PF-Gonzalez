@@ -14,14 +14,13 @@
     }
 }
 
-
 .contenedor-text-in{
     width: 100%;
     height: auto;
     background-color: $quehacerColor;
     display: flex;
     margin-bottom: 20px;
-    border-radius: 15px;
+    /* border-radius: 15px; */
     overflow-x:auto;
 }
 
@@ -31,7 +30,7 @@
         width: 400px;
         height: 400px;
         object-fit: cover;
-        border-radius: 5px;
+        /* border-radius: 5px; */
     }
     .content-text{
         justify-content: space-between;
